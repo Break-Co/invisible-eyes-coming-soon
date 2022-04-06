@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/invisible-eyes-coming-soon/precache-manifest.2fc2c39caa87177a0befb9a4012d1de6.js"
+  "/invisible-eyes-coming-soon/precache-manifest.7ecd4067e09d1916ebdfbb7e6f6f7ba5.js"
 );
 
 self.addEventListener('message', (event) => {
