@@ -1,7 +1,7 @@
 coming-soon
 ======================
-[![deploy](https://github.com/arkn98/coming-soon/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
-[![license](https://img.shields.io/github/license/arkn98/coming-soon)](LICENSE)
+[![deploy](https://github.com/break-co/coming-soon/workflows/deploy/badge.svg)](https://github.com/break-co/coming-soon/actions?query=workflow%3Adeploy)
+[![license](https://img.shields.io/github/license/break-co/coming-soon)](LICENSE)
 
 A simple coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
 
