@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/invisible-eyes-coming-soon/static/css/main.e1827b9f.chunk.css",
+    "main.js": "/invisible-eyes-coming-soon/static/js/main.9d6dfecb.chunk.js",
+    "main.js.map": "/invisible-eyes-coming-soon/static/js/main.9d6dfecb.chunk.js.map",
+    "runtime-main.js": "/invisible-eyes-coming-soon/static/js/runtime-main.fdb75d65.js",
+    "runtime-main.js.map": "/invisible-eyes-coming-soon/static/js/runtime-main.fdb75d65.js.map",
+    "static/js/2.58aaed71.chunk.js": "/invisible-eyes-coming-soon/static/js/2.58aaed71.chunk.js",
+    "static/js/2.58aaed71.chunk.js.map": "/invisible-eyes-coming-soon/static/js/2.58aaed71.chunk.js.map",
+    "index.html": "/invisible-eyes-coming-soon/index.html",
+    "precache-manifest.2fc2c39caa87177a0befb9a4012d1de6.js": "/invisible-eyes-coming-soon/precache-manifest.2fc2c39caa87177a0befb9a4012d1de6.js",
+    "service-worker.js": "/invisible-eyes-coming-soon/service-worker.js",
+    "static/css/main.e1827b9f.chunk.css.map": "/invisible-eyes-coming-soon/static/css/main.e1827b9f.chunk.css.map",
+    "static/js/2.58aaed71.chunk.js.LICENSE.txt": "/invisible-eyes-coming-soon/static/js/2.58aaed71.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/invisible-eyes-coming-soon/static/media/VanHelsing.23acd9e2.ttf",
+    "static/media/discord.c874eaba.svg": "/invisible-eyes-coming-soon/static/media/discord.c874eaba.svg",
+    "static/media/github.baf48a32.svg": "/invisible-eyes-coming-soon/static/media/github.baf48a32.svg",
+    "static/media/gmail.689f0d1a.svg": "/invisible-eyes-coming-soon/static/media/gmail.689f0d1a.svg",
+    "static/media/mirror.718e9d5d.svg": "/invisible-eyes-coming-soon/static/media/mirror.718e9d5d.svg",
+    "static/media/twitter.a50716dd.svg": "/invisible-eyes-coming-soon/static/media/twitter.a50716dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb75d65.js",
+    "static/js/2.58aaed71.chunk.js",
+    "static/css/main.e1827b9f.chunk.css",
+    "static/js/main.9d6dfecb.chunk.js"
+  ]
+}
