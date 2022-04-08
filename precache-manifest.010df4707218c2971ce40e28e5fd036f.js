@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "393148360e92eb728e7a546a2d3200c8",
+    "revision": "c1e191b8d4a51d7eb483601d848c0089",
     "url": "/invisible-eyes-coming-soon/index.html"
   },
   {
-    "revision": "f0429889c07e6a9cfa05",
-    "url": "/invisible-eyes-coming-soon/static/css/main.e1827b9f.chunk.css"
+    "revision": "dc085b2a751a05a0ce1b",
+    "url": "/invisible-eyes-coming-soon/static/css/main.c66fc974.chunk.css"
   },
   {
-    "revision": "ed93eeddf9369950c440",
-    "url": "/invisible-eyes-coming-soon/static/js/2.58aaed71.chunk.js"
+    "revision": "aef594e33bcf13401c4d",
+    "url": "/invisible-eyes-coming-soon/static/js/2.7c851472.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/invisible-eyes-coming-soon/static/js/2.58aaed71.chunk.js.LICENSE.txt"
+    "url": "/invisible-eyes-coming-soon/static/js/2.7c851472.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0429889c07e6a9cfa05",
-    "url": "/invisible-eyes-coming-soon/static/js/main.5c06f021.chunk.js"
+    "revision": "dc085b2a751a05a0ce1b",
+    "url": "/invisible-eyes-coming-soon/static/js/main.271e843e.chunk.js"
   },
   {
     "revision": "4004bbf6741328486eeb",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c02b4dc6554c116e4c40f254889d5871",
     "url": "/invisible-eyes-coming-soon/static/media/IBMPlexSans-Regular.c02b4dc6.ttf"
+  },
+  {
+    "revision": "fb40c550825d40c88208a131e2075770",
+    "url": "/invisible-eyes-coming-soon/static/media/InvisibleLogo.fb40c550.png"
   },
   {
     "revision": "23acd9e2108aabbc7fb1d0f55e1debb3",
