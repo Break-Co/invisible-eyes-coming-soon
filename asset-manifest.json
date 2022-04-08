@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/invisible-eyes-coming-soon/static/css/main.c66fc974.chunk.css",
-    "main.js": "/invisible-eyes-coming-soon/static/js/main.271e843e.chunk.js",
-    "main.js.map": "/invisible-eyes-coming-soon/static/js/main.271e843e.chunk.js.map",
-    "runtime-main.js": "/invisible-eyes-coming-soon/static/js/runtime-main.fdb75d65.js",
-    "runtime-main.js.map": "/invisible-eyes-coming-soon/static/js/runtime-main.fdb75d65.js.map",
-    "static/js/2.7c851472.chunk.js": "/invisible-eyes-coming-soon/static/js/2.7c851472.chunk.js",
-    "static/js/2.7c851472.chunk.js.map": "/invisible-eyes-coming-soon/static/js/2.7c851472.chunk.js.map",
-    "index.html": "/invisible-eyes-coming-soon/index.html",
-    "precache-manifest.010df4707218c2971ce40e28e5fd036f.js": "/invisible-eyes-coming-soon/precache-manifest.010df4707218c2971ce40e28e5fd036f.js",
-    "service-worker.js": "/invisible-eyes-coming-soon/service-worker.js",
-    "static/css/main.c66fc974.chunk.css.map": "/invisible-eyes-coming-soon/static/css/main.c66fc974.chunk.css.map",
-    "static/js/2.7c851472.chunk.js.LICENSE.txt": "/invisible-eyes-coming-soon/static/js/2.7c851472.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/invisible-eyes-coming-soon/static/media/VanHelsing.23acd9e2.ttf",
-    "static/media/InvisibleLogo.png": "/invisible-eyes-coming-soon/static/media/InvisibleLogo.fb40c550.png",
-    "static/media/discord.c874eaba.svg": "/invisible-eyes-coming-soon/static/media/discord.c874eaba.svg",
-    "static/media/github.baf48a32.svg": "/invisible-eyes-coming-soon/static/media/github.baf48a32.svg",
-    "static/media/gmail.689f0d1a.svg": "/invisible-eyes-coming-soon/static/media/gmail.689f0d1a.svg",
-    "static/media/mirror.718e9d5d.svg": "/invisible-eyes-coming-soon/static/media/mirror.718e9d5d.svg",
-    "static/media/twitter.a50716dd.svg": "/invisible-eyes-coming-soon/static/media/twitter.a50716dd.svg"
+    "main.css": "/static/css/main.40b9d84b.chunk.css",
+    "main.js": "/static/js/main.bbcb8978.chunk.js",
+    "main.js.map": "/static/js/main.bbcb8978.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05172a96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05172a96.js.map",
+    "static/js/2.7c851472.chunk.js": "/static/js/2.7c851472.chunk.js",
+    "static/js/2.7c851472.chunk.js.map": "/static/js/2.7c851472.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca0e181694c3106c7fc70d24024a79ae.js": "/precache-manifest.ca0e181694c3106c7fc70d24024a79ae.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.40b9d84b.chunk.css.map": "/static/css/main.40b9d84b.chunk.css.map",
+    "static/js/2.7c851472.chunk.js.LICENSE.txt": "/static/js/2.7c851472.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/VanHelsing.23acd9e2.ttf",
+    "static/media/InvisibleLogo.png": "/static/media/InvisibleLogo.fb40c550.png",
+    "static/media/discord.c874eaba.svg": "/static/media/discord.c874eaba.svg",
+    "static/media/github.baf48a32.svg": "/static/media/github.baf48a32.svg",
+    "static/media/gmail.689f0d1a.svg": "/static/media/gmail.689f0d1a.svg",
+    "static/media/mirror.718e9d5d.svg": "/static/media/mirror.718e9d5d.svg",
+    "static/media/twitter.a50716dd.svg": "/static/media/twitter.a50716dd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdb75d65.js",
+    "static/js/runtime-main.05172a96.js",
     "static/js/2.7c851472.chunk.js",
-    "static/css/main.c66fc974.chunk.css",
-    "static/js/main.271e843e.chunk.js"
+    "static/css/main.40b9d84b.chunk.css",
+    "static/js/main.bbcb8978.chunk.js"
   ]
 }
