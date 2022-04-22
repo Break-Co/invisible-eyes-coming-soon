@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.40b9d84b.chunk.css",
-    "main.js": "/static/js/main.bbcb8978.chunk.js",
-    "main.js.map": "/static/js/main.bbcb8978.chunk.js.map",
+    "main.css": "/static/css/main.99133f8a.chunk.css",
+    "main.js": "/static/js/main.46ef4e0b.chunk.js",
+    "main.js.map": "/static/js/main.46ef4e0b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.05172a96.js",
     "runtime-main.js.map": "/static/js/runtime-main.05172a96.js.map",
     "static/js/2.7c851472.chunk.js": "/static/js/2.7c851472.chunk.js",
     "static/js/2.7c851472.chunk.js.map": "/static/js/2.7c851472.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ca0e181694c3106c7fc70d24024a79ae.js": "/precache-manifest.ca0e181694c3106c7fc70d24024a79ae.js",
+    "precache-manifest.89ab743a074fdfcf9a1f342b507ad1cc.js": "/precache-manifest.89ab743a074fdfcf9a1f342b507ad1cc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.40b9d84b.chunk.css.map": "/static/css/main.40b9d84b.chunk.css.map",
+    "static/css/main.99133f8a.chunk.css.map": "/static/css/main.99133f8a.chunk.css.map",
     "static/js/2.7c851472.chunk.js.LICENSE.txt": "/static/js/2.7c851472.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/static/media/VanHelsing.23acd9e2.ttf",
     "static/media/InvisibleLogo.png": "/static/media/InvisibleLogo.fb40c550.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.05172a96.js",
     "static/js/2.7c851472.chunk.js",
-    "static/css/main.40b9d84b.chunk.css",
-    "static/js/main.bbcb8978.chunk.js"
+    "static/css/main.99133f8a.chunk.css",
+    "static/js/main.46ef4e0b.chunk.js"
   ]
 }
