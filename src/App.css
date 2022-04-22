@@ -3,14 +3,13 @@
   height: 100%;
   margin: auto;
   min-height: 512px;
-  box-shadow: 0px 35px 70px 0px rgba(138, 77, 148, 0.65), 0px 30px 40px -10px rgba(34, 65, 91, 0.65);
+  box-shadow: 0px 35px 70px 0px rgba(138, 77, 148, 0.65),
+    0px 30px 40px -10px rgba(34, 65, 91, 0.65);
   background: linear-gradient(180deg, #7c39a4 0%, #491001 100%);
   border-radius: 2px;
   display: flex;
   flex-direction: column;
 }
-
-
 
 .header {
   display: flex;
@@ -58,10 +57,11 @@
   flex: 1 1 auto;
   min-height: 256px;
   display: flex;
+  padding: 48px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative; 
+  position: relative;
 }
 
 .content .title-holder {
@@ -69,11 +69,11 @@
   text-align: center;
   margin-bottom: 24px;
   font-style: italic;
-  position: relative; 
+  position: relative;
 }
 
 .content .title-holder h1 {
-  position: relative; 
+  position: relative;
   font-weight: bold;
   font-style: italic;
   font-size: 40px;
@@ -82,7 +82,7 @@
 }
 
 .content .title-holder p {
-  position: relative; 
+  position: relative;
   font-size: 25px;
   line-height: 28px;
   font-weight: 500;
@@ -90,34 +90,31 @@
   font-family: 'Van Helsing';
 }
 
-
-
 .content .title-image {
   position: relative;
   display: flex;
   justify-content: center;
-  margin-left: auto;  
-  margin-right: auto;  
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   height: 50%;
-  z-index:1;
+  z-index: 1;
 }
 
 /* Resize images */
 .content .title-image img {
-  position: relative; 
+  position: relative;
   max-width: 100%;
   height: auto;
   object-fit: contain;
 }
-
 
 .content .mail-to {
   color: #fff;
   text-align: center;
   margin-bottom: 24px;
   font-style: italic;
-  position: relative; 
+  position: relative;
 }
 
 .content .cta {
@@ -129,10 +126,11 @@
   text-align: center;
   font-family: 'Gloria Hallelujah', cursive;
   font-size: 1em;
-  font-weight:bolder;
+  font-weight: bolder;
   transform: none;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
-  transition: box-shadow 0.3s cubic-bezier(0.25, 0.25, 0.315, 1.35), transform 0.1s linear;
+  transition: box-shadow 0.3s cubic-bezier(0.25, 0.25, 0.315, 1.35),
+    transform 0.1s linear;
 }
 
 .content .cta:hover {
@@ -155,7 +153,35 @@ a.underlined:hover {
   border-bottom: 1px dotted #fff;
 }
 
+@media screen and (max-width: 768px) {
+  .header {
+    padding: 30px;
+  }
+}
 
+@media screen and (max-width: 768px) {
+  .content {
+    padding: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    font-size: 1.75em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .social a {
+    margin-right: 8px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .social .icon {
+    width: 14px;
+  }
+}
 
 @media screen and (max-width: 768px) {
   .content .title-holder {
@@ -184,6 +210,35 @@ a.underlined:hover {
   }
 }
 
+@media screen and (max-width: 512px) {
+  .header {
+    padding: 24px;
+  }
+}
+
+@media screen and (max-width: 512px) {
+  .content {
+    padding: 24px;
+  }
+}
+
+@media screen and (max-width: 512px) {
+  .logo {
+    font-size: 1em;
+  }
+}
+
+@media screen and (max-width: 512px) {
+  .social a {
+    margin-right: 6px;
+  }
+}
+
+@media screen and (max-width: 512px) {
+  .social .icon {
+    width: 9px;
+  }
+}
 
 @media screen and (max-width: 512px) {
   .card {
@@ -198,7 +253,6 @@ a.underlined:hover {
   .content .title-holder h1 {
     font-size: 20px;
   }
-  
 }
 
 @media screen and (max-width: 512px) {
@@ -208,7 +262,7 @@ a.underlined:hover {
   }
 }
 @media screen and (max-width: 512px) {
-.content .title-image {
+  .content .title-image {
     width: 20%;
     height: 20%;
   }
