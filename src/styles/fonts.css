@@ -72,3 +72,10 @@
   font-weight: 500;
   font-style: italic;
 }
+
+@font-face {
+  font-family: "BLANKA";
+  src: url("../assets/fonts/Blanka-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
