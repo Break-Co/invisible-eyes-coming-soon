@@ -171,6 +171,19 @@ a.underlined:hover {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .content .title-holder h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content .title-holder p {
+    font-size: 20px;
+    font-weight: 300;
+  }
+}
+
 
 @media screen and (max-width: 512px) {
   .card {
@@ -178,6 +191,20 @@ a.underlined:hover {
     height: 100%;
     border-radius: 0;
     box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 512px) {
+  .content .title-holder h1 {
+    font-size: 20px;
+  }
+  
+}
+
+@media screen and (max-width: 512px) {
+  .content .title-holder p {
+    font-size: 15px;
+    font-weight: 250;
   }
 }
 @media screen and (max-width: 512px) {
